@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Paulina]
+# Hi there! 👋 I'm Paulina
 
 I'm a passionate computer science student with a keen interest in software development and programming languages. Currently, I'm exploring various technologies to expand my knowledge and skills.
 
