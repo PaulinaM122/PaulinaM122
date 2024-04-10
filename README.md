@@ -9,7 +9,7 @@ I'm a passionate computer science student with a keen interest in software devel
 - **Version Control:** Git
 
 ## 📫 Connect with Me
-Feel free to reach out to me through [LinkedIn](kedin.com/in/paulina-machcińska-4a14b3269/) for any opportunities or collaborations.
+Feel free to reach out to me through [LinkedIn](www.linkedin.com/in/paulina-machcińska-4a14b3269) for any opportunities or collaborations.
 
 ## 🎓 Education
 - Bachelor of Science in Computer Science, 3rd Year
